@@ -1,0 +1,50 @@
+#body {
+  padding: 0px;
+  margin: 0px;
+  border: 2px solid rgb(248, 247, 247);
+  background-color: darkkhaki;
+}
+
+.ctr1 {
+  background-color: lightseagreen;
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+  padding: 500px;
+
+}
+
+.Heading {
+ border: 2px solid black;
+
+}
+
+.Container {
+border: 2px solid black;
+
+}
+
+.taskBar {
+
+}
+
+#dateSet {
+
+}
+
+#timeSet {
+
+}
+
+#addBtn {
+
+
+}
+
+
+
+
+
+
+
+
